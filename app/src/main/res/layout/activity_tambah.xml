@@ -32,12 +32,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <EditText
-            android:id="@+id/et_nomor"
+            android:id="@+id/et_alamat"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Alamat"
             android:background="@color/white"
-            android:inputType="number" />
+            android:inputType="text" />
     </com.google.android.material.textfield.TextInputLayout>
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
